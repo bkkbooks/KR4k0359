@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0359_001.yaml, hash: 'sha256:f9b7e95335ddde6a713fd7aec19a3831c5b31ac600d3e588f1d0aa73902a1c2e'}
+  - {seq: 1, filename: KR4k0359_001.yaml, hash: 'sha256:6aac7cf3714d4990897f05a11f17c536243d2eeee37ee20ec08ef23644b5f923'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0359_001.markers.yaml, hash: 'sha256:74b40023ca4552b1d12349155443322e334c9dd95bdab2bfdbb5bb5e00f07e35'}
+  - {seq: 1, role: markers, filename: assets/KR4k0359_001.markers.yaml, hash: 'sha256:a3afd43a30e80ede90bf00bc6d9cbcf6262b588ad6f2b012f798f48e4fd9c5fa'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 虞預晉書
   type: section
   level: 1
-hash: sha256:21d5baa35e2b57d0a2a4ff88730159816bf755e25713d27ba5e9c7376ea18f7a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:16bb16db2464231fb414874cb01b4c8b59c8235adb6ddda297d4deceda5a8336
